@@ -1,0 +1,18 @@
+{
+  "name": "moneyaid",
+  "version": "1.0.0",
+  "contributors": [
+    "DiViNiZe <patric_emmel@outlook.com>"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "dab": "next",
+    "build": "next build",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "next": "^6.1.1",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  }
+}
